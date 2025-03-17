@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Walkerjack4396
 - 👀 I’m interested in coding, piano...
 - 🌱 I’m currently learning java
-- 💞️ I'm currently University year2 student
+- 💞️ I'm currently University year3 student
 - 📫 
 
 <!---
