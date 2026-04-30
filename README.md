@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Walkerjack4396
+- 👋 Hi, I’m @Walkerjack4396 (Jianzhi)
 - 👀 I’m interested in coding, piano...
-- 🌱 I’m currently learning java
-- 💞️ I'm currently University year3 student
+- 🌱 I’m currently learning AI and clouding
+- 💞️ I'm currently UNSW Master first year student
 - 📫 
 
 <!---
